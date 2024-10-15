@@ -1,6 +1,6 @@
 ## Bootcamp Engenharia de Dados com Python - DIO. NTT DATA
 
-### Projeto desenvolvido durante o desafio: *Modelando o Sistema Bancário em POO com Python* 🏦 
+### Projeto desenvolvido durante o desafio: *Modelando o Sistema Bancário em POO com Python* 
 ---
 
 ### Linguagem Utilizada:
