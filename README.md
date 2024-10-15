@@ -9,11 +9,6 @@
 ### Proposta:
 Neste projeto, incrementamos o **Sistema Bancário em Python** desenvolvido no desafio anterior. A nova versão implementa a modelagem do sistema bancário utilizando **Programação Orientada a Objetos (POO)**, introduzindo classes para clientes e operações bancárias, como *depósito* e *saque*. O código seguiu o modelo de classes UML.
 
-### Imagem referencia
-<div align=center>
-    <img src="https://github.com/user-attachments/assets/1106b907-b231-4749-86a6-07ac2095b52b" height=400 />
-</div>
-
 ### Instruções do desafio:  
 
 #### Melhorias e Conceitos Implementados:
